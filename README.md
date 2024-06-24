@@ -7,8 +7,7 @@ In this course, you'll dive into the essentials of function-calling and structur
 
 1. 🛠️ **Function-calling**: Learn to extend LLMs with custom capabilities by enabling them to call external functions based on natural language instructions, using NexusRavenV2-13B, an open-source model fine-tuned for function-calling and data extraction.
 <p align="center">
-<img src="images/l1_2.png" height="400">
-  <img src="images/l1_3.png" height="400"> 
+<img src="images/l1_2.png" height="450">
 </p>
 
 2. 🔄 **Complex Workflows**: Work with multiple function calls, including parallel and nested calls, to create complex agent workflows where an LLM plans and executes a series of functions to achieve a goal.
