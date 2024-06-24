@@ -6,6 +6,10 @@
 In this course, you'll dive into the essentials of function-calling and structured data extraction with LLMs, focusing on practical applications and advanced workflows. Here's what you can expect to learn and experience:
 
 1. 🛠️ **Function-calling**: Learn to extend LLMs with custom capabilities by enabling them to call external functions based on natural language instructions, using NexusRavenV2-13B, an open-source model fine-tuned for function-calling and data extraction.
+<p align="center">
+<img src="images/l1_1.png" height="300"> 
+</p>
+
 2. 🔄 **Complex Workflows**: Work with multiple function calls, including parallel and nested calls, to create complex agent workflows where an LLM plans and executes a series of functions to achieve a goal.
 3. 🌐 **Web Services Integration**: Use OpenAPI specifications to build function calls that can access web services, enhancing the functionality and reach of your applications.
 4. 🗂️ **Structured Data Extraction**: Extract structured data from natural language inputs, enabling real-world data usability for analysis and application.
