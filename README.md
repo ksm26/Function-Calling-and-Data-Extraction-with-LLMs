@@ -18,6 +18,10 @@ In this course, you'll dive into the essentials of function-calling and structur
 </p>
 
 5. 💾 **End-to-End Application**: Build an application that processes customer service transcripts, generates SQL calls, and stores results in a database, demonstrating the practical implementation of the skills learned.
+<p align="center">
+<img src="images/l5_1.png" height="450">
+<img src="images/l5_2.png" height="450">
+</p>
 
 ## Key Points
 - 🔌 **Extend LLM Functionality**: Learn to extend LLMs with custom functionality via function-calling, enabling them to perform external function calls.
