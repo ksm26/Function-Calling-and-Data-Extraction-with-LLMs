@@ -13,6 +13,10 @@ In this course, you'll dive into the essentials of function-calling and structur
 2. 🔄 **Complex Workflows**: Work with multiple function calls, including parallel and nested calls, to create complex agent workflows where an LLM plans and executes a series of functions to achieve a goal.
 3. 🌐 **Web Services Integration**: Use OpenAPI specifications to build function calls that can access web services, enhancing the functionality and reach of your applications.
 4. 🗂️ **Structured Data Extraction**: Extract structured data from natural language inputs, enabling real-world data usability for analysis and application.
+<p align="center">
+<img src="images/l4.png" height="450">
+</p>
+
 5. 💾 **End-to-End Application**: Build an application that processes customer service transcripts, generates SQL calls, and stores results in a database, demonstrating the practical implementation of the skills learned.
 
 ## Key Points
